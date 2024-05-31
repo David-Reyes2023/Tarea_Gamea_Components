@@ -27,5 +27,5 @@ export const CORE_GAMES = [
     title: 'Street_Fighter',
     description:
     'Classic combat game from the 90s, very popular. It inspired many other titles with similar characteristics',
-  },
+  }
 ];

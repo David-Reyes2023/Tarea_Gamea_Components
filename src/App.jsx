@@ -34,7 +34,7 @@ function App() {
             <CoreGames
             image={CORE_GAMES[3].image}
             title={CORE_GAMES[3].title}
-            description={GAMES[3].description}
+            description={CORE_GAMES[3].description}
             />
           
           </ul>
